@@ -89,20 +89,12 @@ http://[2409:8087:3800:20:1000::803]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/
 #EXTINF:-1 group-title="HDR",CNC
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225693/index.m3u8
 
-#EXTINF:-1 group-title="HK",翡翠台
-http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
-#EXTINF:-1 group-title="HK",翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 group-title="HK",明珠台
-http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
+
 #EXTINF:-1 group-title="HK",有线新闻台
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1 group-title="HK",无线新闻
 https://cdn.hklive.tv/xxxx/83/index.m3u8
 
-
-#EXTINF:-1 group-title="HK",翡翠台
-https://cdn2.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 group-title="HK",翡翠台
 https://epg.pw/stream/cb5c503b4cd6fe6c3ee083285d3c7c8872635b8ae23d77fbebe8b8f9a8ca1ee0.ctv
 #EXTINF:-1 group-title="HK",翡翠台
