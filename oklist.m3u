@@ -1631,8 +1631,7 @@ https://cdnul194.cloudrsst.com/live/gekijjyou/playlist.m3u8
 https://cdnul194.cloudrsst.com/live/j_disney_channel_540/playlist.m3u8
 #EXTINF:-1 group-title="",Disney Junior Japan (540p) [Not 24/7]
 https://cdnul194.cloudrsst.com/live/disney_junior/playlist.m3u8
-#EXTINF:-1 group-title="",Neco (540p)
-https://cdnul194.cloudrsst.com/live/Neco/playlist.m3u8
+
 #EXTINF:-1 group-title="",FOX (540p)
 https://cdnul194.cloudrsst.com/live/jfox/playlist.m3u8
 #EXTINF:-1 group-title="",GAORA SPORTS
