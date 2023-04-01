@@ -1,4 +1,5 @@
 #EXTM3U
+https://ghproxy.com/https://raw.githubusercontent.com/eyajfja/garibaldi/main/oklist.m3u
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="HDR",CCTV-1  
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
@@ -1067,7 +1068,7 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1124351&extension
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1016544&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-c.png" group-title="starhub+astro+sports",Now Sports 4K
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032489&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="Sports",BT Sport Ultimate
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="starhub+astro+sports",BT Sport Ultimate
 http://4ksuper.live/play/live.php?mac=00:1a:79:b1:05:9e&stream=1038792&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/eleven.png" group-title="starhub+astro+sports",ELEVEN SPORTS 1 4K
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=905665&extension=ts
@@ -1429,222 +1430,222 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
 #EXTINF:-1 group-title="Japan",NitteleG+
 http://redlabmcdn.s.llnwi.net/nv02/cs01hd/index.m3u8
-#EXTINF:-1 group-title="http://redlabmcdn.s.llnwi.net/nv02/cs02hd/index.m3u8",gold network
+#EXTINF:-1 group-title="Japan",gold network
 http://redlabmcdn.s.llnwi.net/nv02/cs03hd/index.m3u8
-#EXTINF:-1 group-title="http://redlabmcdn.s.llnwi.net/nv02/cs02hd/index.m3u8",kids station
+#EXTINF:-1 group-title="Japan",kids station
 http://redlabmcdn.s.llnwi.net/nv02/cs04hd/index.m3u8
-#EXTINF:-1 group-title="http://redlabmcdn.s.llnwi.net/nv02/cs05hd/index.m3u8",Discovery Channel
+#EXTINF:-1 group-title="Japan",Discovery Channel
 http://redlabmcdn.s.llnwi.net/nv02/cs06hd/index.m3u8
-#EXTINF:-1 group-title="http://redlabmcdn.s.llnwi.net/nv02/cs05hd/index.m3u8",wowow cinema
+#EXTINF:-1 group-title="Japan",wowow cinema
 http://redlabmcdn.s.llnwi.net/nv02/cs07hd/index.m3u8
-#EXTINF:-1 group-title="",BS Asahi
+#EXTINF:-1 group-title="Japan",BS Asahi
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",BS Fuji
+#EXTINF:-1 group-title="Japan",BS Fuji
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",BS Nittere
+#EXTINF:-1 group-title="Japan",BS Nittere
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",BS Sky PerfecTV
+#EXTINF:-1 group-title="Japan",BS Sky PerfecTV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",BS TBS
+#EXTINF:-1 group-title="Japan",BS TBS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",BS TV Tokyo
+#EXTINF:-1 group-title="Japan",BS TV Tokyo
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",BS-NTV
+#EXTINF:-1 group-title="Japan",BS-NTV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",BS-TBS
+#EXTINF:-1 group-title="Japan",BS-TBS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",Fuji TV
+#EXTINF:-1 group-title="Japan",Fuji TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",NHK BS Premium
+#EXTINF:-1 group-title="Japan",NHK BS Premium
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",NHK BS1
+#EXTINF:-1 group-title="Japan",NHK BS1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",NHK E
+#EXTINF:-1 group-title="Japan",NHK E
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",NHK G
+#EXTINF:-1 group-title="Japan",NHK G
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",Nippon TV
+#EXTINF:-1 group-title="Japan",Nippon TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",TBS
+#EXTINF:-1 group-title="Japan",TBS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",TV Asahi
+#EXTINF:-1 group-title="Japan",TV Asahi
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",TV Tokyo
+#EXTINF:-1 group-title="Japan",TV Tokyo
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",ＷＯＷＯＷプライム
+#EXTINF:-1 group-title="Japan",ＷＯＷＯＷプライム
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",ＷＯＷＯＷライブ
+#EXTINF:-1 group-title="Japan",ＷＯＷＯＷライブ
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",ＷＯＷＯＷシネマ
+#EXTINF:-1 group-title="Japan",ＷＯＷＯＷシネマ
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",スターチャンネル１
+#EXTINF:-1 group-title="Japan",スターチャンネル１
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",スターチャンネル２
+#EXTINF:-1 group-title="Japan",スターチャンネル２
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",スターチャンネル３
+#EXTINF:-1 group-title="Japan",スターチャンネル３
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",東映チャンネル
+#EXTINF:-1 group-title="Japan",東映チャンネル
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",映画・チャンネルNECO
+#EXTINF:-1 group-title="Japan",映画・チャンネルNECO
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",ムービープラス
+#EXTINF:-1 group-title="Japan",ムービープラス
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",日本映画専門チャンネル
+#EXTINF:-1 group-title="Japan",日本映画専門チャンネル
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",JSPORTS1
+#EXTINF:-1 group-title="Japan",JSPORTS1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",JSPORTS2
+#EXTINF:-1 group-title="Japan",JSPORTS2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",JSPORTS3
+#EXTINF:-1 group-title="Japan",JSPORTS3
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",JSPORTS4
+#EXTINF:-1 group-title="Japan",JSPORTS4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",スカイA
+#EXTINF:-1 group-title="Japan",スカイA
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",GAORASPORTS
+#EXTINF:-1 group-title="Japan",GAORASPORTS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",ゴルフネットワーク
+#EXTINF:-1 group-title="Japan",ゴルフネットワーク
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",日テレジータス
+#EXTINF:-1 group-title="Japan",日テレジータス
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",日テレNEWS24
+#EXTINF:-1 group-title="Japan",日テレNEWS24
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",チャンネル銀河
+#EXTINF:-1 group-title="Japan",チャンネル銀河
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",MUSICON!TV
+#EXTINF:-1 group-title="Japan",MUSICON!TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",歌謡ポップスチャンネル
+#EXTINF:-1 group-title="Japan",歌謡ポップスチャンネル
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",スーパー！ドラマＴＶ
+#EXTINF:-1 group-title="Japan",スーパー！ドラマＴＶ
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",ＡＸＮ
+#EXTINF:-1 group-title="Japan",ＡＸＮ
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",FOX
+#EXTINF:-1 group-title="Japan",FOX
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",LaLaTV
+#EXTINF:-1 group-title="Japan",LaLaTV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",時代劇専門チャンネル
+#EXTINF:-1 group-title="Japan",時代劇専門チャンネル
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",ファミリー劇場
+#EXTINF:-1 group-title="Japan",ファミリー劇場
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",ホームドラマチャンネル
+#EXTINF:-1 group-title="Japan",ホームドラマチャンネル
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",アニマックス
+#EXTINF:-1 group-title="Japan",アニマックス
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",キッズステーション
+#EXTINF:-1 group-title="Japan",キッズステーション
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",CNNj
+#EXTINF:-1 group-title="Japan",CNNj
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",ＢＳ釣りビジョン
+#EXTINF:-1 group-title="Japan",ＢＳ釣りビジョン
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",囲碁・将棋チャンネル
+#EXTINF:-1 group-title="Japan",囲碁・将棋チャンネル
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="",ABC
+#EXTINF:-1 group-title="Japan",ABC
 https://cdnul194.cloudrsst.com/live/kansi_abc_asahi_1080/playlist.m3u8
-#EXTINF:-1 group-title="",MBS
+#EXTINF:-1 group-title="Japan",MBS
 https://cdnul194.cloudrsst.com/live/kansi_mbs_1080/playlist.m3u8
-#EXTINF:-1 group-title="",Kansai TV
+#EXTINF:-1 group-title="Japan",Kansai TV
 https://cdnul194.cloudrsst.com/live/kansi_tv_1080/playlist.m3u8
-#EXTINF:-1 group-title="",TV Osaka
+#EXTINF:-1 group-title="Japan",TV Osaka
 https://cdnul194.cloudrsst.com/live/kansi_tv_osaka_1080/playlist.m3u8
-#EXTINF:-1 group-title="",SUN TV (720p)
+#EXTINF:-1 group-title="Japan",SUN TV (720p)
 https://cdnul194.cloudrsst.com/live/kansi_sun_tv_1080/playlist.m3u8
-#EXTINF:-1 group-title="",Yomiuri TV
+#EXTINF:-1 group-title="Japan",Yomiuri TV
 https://cdnul194.cloudrsst.com/live/kansi_yomiuri_1080/playlist.m3u8
-#EXTINF:-1 group-title="",TBS
+#EXTINF:-1 group-title="Japan",TBS
 https://cdnul194.cloudrsst.com/live/kanto_tbs_1080/playlist.m3u8
-#EXTINF:-1 group-title="",TV Asahi(720p)
+#EXTINF:-1 group-title="Japan",TV Asahi(720p)
 https://cdnul194.cloudrsst.com/live/kanto_tv_asahi_1080/playlist.m3u8
-#EXTINF:-1 group-title="",TV Tokyo
+#EXTINF:-1 group-title="Japan",TV Tokyo
 https://cdnul194.cloudrsst.com/live/kanto_tv_tokyo_1080/playlist.m3u8
-#EXTINF:-1 group-title="",TOKYO MX1
+#EXTINF:-1 group-title="Japan",TOKYO MX1
 https://cdnul194.cloudrsst.com/live/kanto_tokyo_mx1_1080/playlist.m3u8
-#EXTINF:-1 group-title="",NTV(720p)
+#EXTINF:-1 group-title="Japan",NTV(720p)
 https://cdnul194.cloudrsst.com/live/kanto_nippon_1080/playlist.m3u8
-#EXTINF:-1 group-title="",Fuji TV
+#EXTINF:-1 group-title="Japan",Fuji TV
 https://cdnul194.cloudrsst.com/live/kanto_fuji_1080/playlist.m3u8
-#EXTINF:-1 group-title="",NHK G
+#EXTINF:-1 group-title="Japan",NHK G
 https://cdnul194.cloudrsst.com/live/kanto_nhk_g_1080/playlist.m3u8
-#EXTINF:-1 group-title="",NHK E
+#EXTINF:-1 group-title="Japan",NHK E
 https://cdnul194.cloudrsst.com/live/kanto_nhk_edu_1080/playlist.m3u8
-#EXTINF:-1 group-title="",NHK BSP (720p)
+#EXTINF:-1 group-title="Japan",NHK BSP (720p)
 https://cdnul194.cloudrsst.com/live/bspremium_720/playlist.m3u8
-#EXTINF:-1 group-title="",NHK BS1 (720p)
+#EXTINF:-1 group-title="Japan",NHK BS1 (720p)
 https://cdnul194.cloudrsst.com/live/nhkbs1_720/playlist.m3u8
-#EXTINF:-1 group-title="",BS Asahi (720p)
+#EXTINF:-1 group-title="Japan",BS Asahi (720p)
 https://cdnul194.cloudrsst.com/live/bsasahi_720/playlist.m3u8
-#EXTINF:-1 group-title="",BS Fuji TV (720p)
+#EXTINF:-1 group-title="Japan",BS Fuji TV (720p)
 https://cdnul194.cloudrsst.com/live/bsfuji_720/playlist.m3u8
-#EXTINF:-1 group-title="",BS TV Tokyo
+#EXTINF:-1 group-title="Japan",BS TV Tokyo
 https://cdnul194.cloudrsst.com/live/bsjapan_720/playlist.m3u8
-#EXTINF:-1 group-title="",BS Nippon TV (720p)
+#EXTINF:-1 group-title="Japan",BS Nippon TV (720p)
 https://cdnul194.cloudrsst.com/live/bsnihontv_720/playlist.m3u8
-#EXTINF:-1 group-title="",BS TBS
+#EXTINF:-1 group-title="Japan",BS TBS
 https://cdnul194.cloudrsst.com/live/bstbs_720/playlist.m3u8
-#EXTINF:-1 group-title="",BS Animax
+#EXTINF:-1 group-title="Japan",BS Animax
 https://cdnul194.cloudrsst.com/live/janimax_720/playlist.m3u8
-#EXTINF:-1 group-title="",Star 1 (720p) [Not 24/7]
+#EXTINF:-1 group-title="Japan",Star 1 (720p) [Not 24/7]
 https://cdnul194.cloudrsst.com/live/starch1_720/playlist.m3u8
-#EXTINF:-1 group-title="",Star 2 (720p) [Not 24/7]
+#EXTINF:-1 group-title="Japan",Star 2 (720p) [Not 24/7]
 https://cdnul194.cloudrsst.com/live/starch2_720/playlist.m3u8
-#EXTINF:-1 group-title="",Star 3 (720p) [Not 24/7]
+#EXTINF:-1 group-title="Japan",Star 3 (720p) [Not 24/7]
 https://cdnul194.cloudrsst.com/live/starch3_720/playlist.m3u8
-#EXTINF:-1 group-title="",WOWOW Live (720p) 
+#EXTINF:-1 group-title="Japan",WOWOW Live (720p) 
 https://cdnul194.cloudrsst.com/live/wowlive_720/playlist.m3u8
-#EXTINF:-1 group-title="",WOWOW Plus
+#EXTINF:-1 group-title="Japan",WOWOW Plus
 https://cdnul194.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
-#EXTINF:-1 group-title="",WOWOW Prime(720p)
+#EXTINF:-1 group-title="Japan",WOWOW Prime(720p)
 https://cdnul194.cloudrsst.com/live/wowprime_720/playlist.m3u8
-#EXTINF:-1 group-title="",WOWOW Cinema
+#EXTINF:-1 group-title="Japan",WOWOW Cinema
 https://cdnul194.cloudrsst.com/live/wowcinema_720/playlist.m3u8
-#EXTINF:-1 group-title="",Nihon Eiga Senmon (720p)
+#EXTINF:-1 group-title="Japan",Nihon Eiga Senmon (720p)
 https://cdnul194.cloudrsst.com/live/igasennmonn_720/playlist.m3u8
-#EXTINF:-1 group-title="",Jidaigeki Senmon Channel (720p)
+#EXTINF:-1 group-title="Japan",Jidaigeki Senmon Channel (720p)
 https://cdnul194.cloudrsst.com/live/jidaigeki_720/playlist.m3u8
-#EXTINF:-1 group-title="",ムービープラス / Movie Plus
+#EXTINF:-1 group-title="Japan",ムービープラス / Movie Plus
 https://cdnul194.cloudrsst.com/live/movieplus_720/playlist.m3u8
-#EXTINF:-1 group-title="",ホームドラマチャンネル / Home Drama Channel
+#EXTINF:-1 group-title="Japan",ホームドラマチャンネル / Home Drama Channel
 https://cdnul194.cloudrsst.com/live/Home_Drama_720/playlist.m3u8
-#EXTINF:-1 group-title="",ファミリー劇場 / Family Gekijyo
+#EXTINF:-1 group-title="Japan",ファミリー劇場 / Family Gekijyo
 https://cdnul194.cloudrsst.com/live/familytheater_720/playlist.m3u8
-#EXTINF:-1 group-title="",Kids Station (720p) [Not 24/7]
+#EXTINF:-1 group-title="Japan",Kids Station (720p) [Not 24/7]
 https://cdnul194.cloudrsst.com/live/jkids_720/playlist.m3u8
-#EXTINF:-1 group-title="",Sky A (720p) [Not 24/7]
+#EXTINF:-1 group-title="Japan",Sky A (720p) [Not 24/7]
 https://cdnul194.cloudrsst.com/live/Sky_A_720/playlist.m3u8
-#EXTINF:-1 group-title="",Nittele G+ Sports & News (720p)
+#EXTINF:-1 group-title="Japan",Nittele G+ Sports & News (720p)
 https://cdnul194.cloudrsst.com/live/japan_tv_G_720/playlist.m3u8
-#EXTINF:-1 group-title="",Discovery (720p)
+#EXTINF:-1 group-title="Japan",Discovery (720p)
 http://cdnul194.cloudrsst.com/live/jdiscovery_720/playlist.m3u8
-#EXTINF:-1 group-title="",J Sports 1 (720p) [Not 24/7]
+#EXTINF:-1 group-title="Japan",J Sports 1 (720p) [Not 24/7]
 https://cdnul194.cloudrsst.com/live/jsports1_720/playlist.m3u8
-#EXTINF:-1 group-title="",J Sports 2 (720p) [Not 24/7]
+#EXTINF:-1 group-title="Japan",J Sports 2 (720p) [Not 24/7]
 https://cdnul194.cloudrsst.com/live/jsports2_720/playlist.m3u8
-#EXTINF:-1 group-title="",J Sports 3 (540p) [Not 24/7]
+#EXTINF:-1 group-title="Japan",J Sports 3 (540p) [Not 24/7]
 https://cdnul194.cloudrsst.com/live/jsports3_540/playlist.m3u8
-#EXTINF:-1 group-title="",J Sports 4 (540p) [Not 24/7]
+#EXTINF:-1 group-title="Japan",J Sports 4 (540p) [Not 24/7]
 https://cdnul194.cloudrsst.com/live/jsports4_540/playlist.m3u8
-#EXTINF:-1 group-title="",Toei Channel (540p) [Not 24/7]
+#EXTINF:-1 group-title="Japan",Toei Channel (540p) [Not 24/7]
 https://cdnul194.cloudrsst.com/live/toa_540/playlist.m3u8
-#EXTINF:-1 group-title="",Eisei Gekijo (540p) [Not 24/7]
+#EXTINF:-1 group-title="Japan",Eisei Gekijo (540p) [Not 24/7]
 https://cdnul194.cloudrsst.com/live/gekijjyou/playlist.m3u8
-#EXTINF:-1 group-title="",Disney Channel
+#EXTINF:-1 group-title="Japan",Disney Channel
 https://cdnul194.cloudrsst.com/live/j_disney_channel_540/playlist.m3u8
-#EXTINF:-1 group-title="",Disney Junior Japan (540p) [Not 24/7]
+#EXTINF:-1 group-title="Japan",Disney Junior Japan (540p) [Not 24/7]
 https://cdnul194.cloudrsst.com/live/disney_junior/playlist.m3u8
 
-#EXTINF:-1 group-title="",FOX (540p)
+#EXTINF:-1 group-title="Japan",FOX (540p)
 https://cdnul194.cloudrsst.com/live/jfox/playlist.m3u8
-#EXTINF:-1 group-title="",GAORA SPORTS
+#EXTINF:-1 group-title="Japan",GAORA SPORTS
 https://cdnul194.cloudrsst.com/live/GaoRa_540/playlist.m3u8
-#EXTINF:-1 group-title="",Green Channel
+#EXTINF:-1 group-title="Japan",Green Channel
 https://cdnul194.cloudrsst.com/live/green_540/playlist.m3u8
-#EXTINF:-1 group-title="",ゴルフネットワーク / Golf Network
+#EXTINF:-1 group-title="Japan",ゴルフネットワーク / Golf Network
 https://cdnul194.cloudrsst.com/llive/golf_network_540/playlist.m3u8
-#EXTINF:-1 group-title="",BS Fishing Vision
+#EXTINF:-1 group-title="Japan",BS Fishing Vision
 https://cdnul194.cloudrsst.com/live/FishingBC_540/playlist.m3u8
-#EXTINF:-1 group-title="",ナショナル ジオグラフィック / National Geographic (540p)
+#EXTINF:-1 group-title="Japan",ナショナル ジオグラフィック / National Geographic (540p)
 https://cdnul194.cloudrsst.com/live/National_geographic/playlist.m3u8
-#EXTINF:-1 group-title="",アニマルプラネット(540p)
+#EXTINF:-1 group-title="Japan",アニマルプラネット(540p)
 http://cdnul194.cloudrsst.com/live/Animal_540/playlist.m3u8
-#EXTINF:-1 group-title="",MTV
+#EXTINF:-1 group-title="Japan",MTV
 https://cdnul194.cloudrsst.com/live/mtv_540/playlist.m3u8
