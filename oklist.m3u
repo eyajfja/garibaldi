@@ -2,133 +2,133 @@
 _https://ghfast.top/https://raw.githubusercontent.com/eyajfja/garibaldi/main/oklist.m3u
 
 #EXTM3U
-#EXTINF:-1 group-title="����ʱ��" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png",CNA
+#EXTINF:-1 group-title="" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="HDR" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cna.png",CNA����
+#EXTINF:-1 group-title="HDR" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cna.png",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="HDR" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/aljazeera.png",�뵺����
+#EXTINF:-1 group-title="HDR" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/aljazeera.png",
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="����",�뵺����̨Ӣ��
+#EXTINF:-1 group-title="",
 http://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/3EA3DD80-5B0C-42F7-97FE-6E81044B262C.jpeg",TRT 4k��
+#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/3EA3DD80-5B0C-42F7-97FE-6E81044B262C.jpeg",TRT 4k
 http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/4001/index.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/438EE5CB-0885-429B-9995-4CDC5C98C158.png",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/24DFCA13-4C67-4FEE-A413-2288F1FA94F6.jpeg",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="����",FOX News
+#EXTINF:-1 group-title="",FOX News
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="����",FOX News Now
+#EXTINF:-1 group-title="",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="����",Global NEWS
+#EXTINF:-1 group-title="",Global NEWS
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-#EXTINF:-1 group-title="����",iHQ
+#EXTINF:-1 group-title="",iHQ
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=ihq%EB%8F%88%EC%AD%90%EB%82%B4%EB%9F%AC%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4&channel_id=newid_066&apikey=b97c7a7d0c82424bb607e141ef215779&auth=7655c725-1db330b1-ae689684-c7002a87&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="����",RT Documentary
+#EXTINF:-1 group-title="",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 group-title="����",Russia Today
+#EXTINF:-1 group-title="",Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="����",Sky News
+#EXTINF:-1 group-title="",Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 group-title="����",Vivaldi TV
+#EXTINF:-1 group-title="",Vivaldi TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 group-title="����",Bloomberg TV+ UHD (2160p)
+#EXTINF:-1 group-title="",Bloomberg TV+ UHD (2160p)
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
-#EXTINF:-1 group-title="����",C31 Melbourne (240p)
+#EXTINF:-1 group-title="",C31 Melbourne (240p)
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 group-title="����",Canada One (720p) [Not 24/7]
+#EXTINF:-1 group-title="",Canada One (720p) [Not 24/7]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 group-title="����",CBN News National (1080p)
+#EXTINF:-1 group-title="",CBN News National (1080p)
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 group-title="����",CBS News Baltimore (720p)
+#EXTINF:-1 group-title="",CBS News Baltimore (720p)
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 group-title="����",CBS News Sacramento (720p)
+#EXTINF:-1 group-title="",CBS News Sacramento (720p)
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
-#EXTINF:-1 group-title="����",Channel 44 (480p)
+#EXTINF:-1 group-title="",Channel 44 (480p)
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
-#EXTINF:-1 group-title="����",CJ OnStyle (540p)
+#EXTINF:-1 group-title="",CJ OnStyle (540p)
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-#EXTINF:-1 group-title="����",CJ OnStyle Plus (540p)
+#EXTINF:-1 group-title="",CJ OnStyle Plus (540p)
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-#EXTINF:-1 group-title="����",Classic Arts Showcase
+#EXTINF:-1 group-title="",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 group-title="����",CMC (California Music Channel)
+#EXTINF:-1 group-title="",CMC (California Music Channel)
 https://cmc-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="����",Dare To Dream Network (3ABN) (720p)
+#EXTINF:-1 group-title="",Dare To Dream Network (3ABN) (720p)
 https://3abn-live.akamaized.net/hls/live/2010545/D2D/master.m3u8
-#EXTINF:-1 group-title="����",DC.gov DKN (Washington DC) (1080p)
+#EXTINF:-1 group-title="",DC.gov DKN (Washington DC) (1080p)
 https://video.oct.dc.gov/out/u/DKN.m3u8
-#EXTINF:-1 group-title="����",District of Columbia Network (DCN) (1080p)
+#EXTINF:-1 group-title="",District of Columbia Network (DCN) (1080p)
 https://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1 group-title="����",Eman Channel (576p)
+#EXTINF:-1 group-title="",Eman Channel (576p)
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-#EXTINF:-1 group-title="����",Extrema TV (720p)
+#EXTINF:-1 group-title="",Extrema TV (720p)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="����",FIGHT SPORTS (1080p)
+#EXTINF:-1 group-title="",FIGHT SPORTS (1080p)
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:-1 group-title="����",Gainesville Community 12TV (Gainesville FL) (720p)
+#EXTINF:-1 group-title="",Gainesville Community 12TV (Gainesville FL) (720p)
 https://lin10.isilive.ca/live/gainesville/live/index.m3u8
-#EXTINF:-1 group-title="����",Greensboro TV (Greensboro NC) (720p)
+#EXTINF:-1 group-title="",Greensboro TV (Greensboro NC) (720p)
 https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
-#EXTINF:-1 group-title="����",GugakTV (1080p)
+#EXTINF:-1 group-title="",GugakTV (1080p)
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 group-title="����",Gugbang TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="",Gugbang TV (1080p) [Not 24/7]
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 group-title="����",India Today (720p) [Not 24/7]
+#EXTINF:-1 group-title="",India Today (720p) [Not 24/7]
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 group-title="����",KC2 (720p) [Not 24/7]
+#EXTINF:-1 group-title="",KC2 (720p) [Not 24/7]
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
-#EXTINF:-1 group-title="����",KCTV  CH05 (720p) [Not 24/7]
+#EXTINF:-1 group-title="",KCTV  CH05 (720p) [Not 24/7]
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1 group-title="����",Mission TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="",Mission TV (1080p) [Not 24/7]
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
-#EXTINF:-1 group-title="����",Montreal Greek TV (480p)
+#EXTINF:-1 group-title="",Montreal Greek TV (480p)
 http://live.greektv.ca/hls1/greektv.m3u8
-#EXTINF:-1 group-title="����",Morro Bay Channel 20 (480p)
+#EXTINF:-1 group-title="",Morro Bay Channel 20 (480p)
 https://agp-nimble.streamguys1.com/MBCh20/MBCh20/playlist.m3u8
-#EXTINF:-1 group-title="����",NASA TV Media (720p)
+#EXTINF:-1 group-title="",NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="����",NASA TV Public (720p)
+#EXTINF:-1 group-title="",NASA TV Public (720p)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="����",National Assembly TV (720p)
+#EXTINF:-1 group-title="",National Assembly TV (720p)
 https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
-#EXTINF:-1 group-title="����",NBS Korea Agricultural Broadcasting (720p)
+#EXTINF:-1 group-title="",NBS Korea Agricultural Broadcasting (720p)
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 group-title="����",NDR Fernsehen International
+#EXTINF:-1 group-title="",NDR Fernsehen International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:-1 group-title="����",NDTV 24X7 (480p) [Not 24/7]
+#EXTINF:-1 group-title="",NDTV 24X7 (480p) [Not 24/7]
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 group-title="����",Newington Community Television Channel 14 (Newington CT) (720p)
+#EXTINF:-1 group-title="",Newington Community Television Channel 14 (Newington CT) (720p)
 https://s3-us-west-2.amazonaws.com/newington.castus-vod/live/ch1/video.m3u8
-#EXTINF:-1 group-title="����",Newington Community Television Channel 16 (Newington CT) (720p)
+#EXTINF:-1 group-title="",Newington Community Television Channel 16 (Newington CT) (720p)
 https://s3-us-west-2.amazonaws.com/newington.castus-vod/live/ch2/video.m3u8
-#EXTINF:-1 group-title="����",Newsy (1080p)
+#EXTINF:-1 group-title="",Newsy (1080p)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
-#EXTINF:-1 group-title="����",NHTV (720p)
+#EXTINF:-1 group-title="",NHTV (720p)
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-#EXTINF:-1 group-title="����",NRB TV (480p)
+#EXTINF:-1 group-title="",NRB TV (480p)
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="����",OAN (1080p)
+#EXTINF:-1 group-title="",OAN (1080p)
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="����",Ontario Parliamentary Network (720p)
+#EXTINF:-1 group-title="",Ontario Parliamentary Network (720p)
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 group-title="����",PowerHD
+#EXTINF:-1 group-title="",PowerHD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
-#EXTINF:-1 group-title="����",PTL Television Network (1080p)
+#EXTINF:-1 group-title="",PTL Television Network (1080p)
 https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlist.m3u8
-#EXTINF:-1 group-title="����",QVC 3 (1080p)
+#EXTINF:-1 group-title="",QVC 3 (1080p)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
-#EXTINF:-1 group-title="����",FTV Magzine
+#EXTINF:-1 group-title="",FTV Magzine
 https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 group-title="����",Fashion TV
+#EXTINF:-1 group-title="",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-#EXTINF:-1 group-title="����",Fashion TV Czech&Slovak
+#EXTINF:-1 group-title="",Fashion TV Czech&Slovak
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 group-title="����",Fashion TV UHD
+#EXTINF:-1 group-title="",Fashion TV UHD
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="����",Music Reload
+#EXTINF:-1 group-title="",Music Reload
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 
 --------------------
